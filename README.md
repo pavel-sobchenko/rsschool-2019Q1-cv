@@ -1,1 +1,1 @@
-https://github.com/pavel-sobchenko/rsschool-2019Q1-cv/cv
+ https://pavel-sobchenko.github.io/rsschool-2019Q1-cv/cv
