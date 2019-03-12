@@ -1,0 +1,45 @@
+.central{
+  position: relative;
+  width: 1024px;
+  height: auto;
+  margin: 0px auto;
+}
+
+.info-container {
+  display: flex;
+}
+
+.photo {
+  margin: 10px;
+  width: 200px;
+  height: auto;
+}
+
+.central .title {
+  justify-content: flex-start;
+  border-bottom: 1px solid #ccc;
+  overflow:auto;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+table{
+  border: solid 1px black;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+
+td, th {
+  padding: 5px;
+  text-align: center;
+  border: solid 1px black;  
+}
+
+tr:nth-child(odd){
+  background-color: silver;
+}
+ 
+.line {
+ border-left: 2px solid #ccc; 
+ padding-left: 30px;
+}
